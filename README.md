@@ -13,3 +13,6 @@
 - C言語
 - Python
 - PHP
+- Java
+- JavaScript
+- TypeScript
